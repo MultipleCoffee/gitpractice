@@ -1,4 +1,4 @@
-def hello_local():
-    print("Hello World from local repo!")
+def hello_remote():
+    print("Hello World from remote repo!")
 
-hello_local()
+hello_remote()
